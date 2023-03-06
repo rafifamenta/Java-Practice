@@ -1,3 +1,7 @@
 first edit.
+<<<<<<< HEAD
 
 third edit from local.
+=======
+second edit.
+>>>>>>> c87a3cb5e84852a8d78818eae888c2903705be9d
